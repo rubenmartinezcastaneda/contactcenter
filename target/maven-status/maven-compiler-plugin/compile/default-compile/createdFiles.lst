@@ -1,0 +1,13 @@
+com\bbva\jee\arq\spring\core\properties\MisPropiedades.class
+com\bbva\jee\arq\spring\core\rest\AbstractRestConnector$1.class
+com\bbva\jee\arq\spring\core\rest\utils\RestConnectorUtils.class
+com\bbva\jee\arq\spring\core\rest\google\AuthGoogle.class
+com\bbva\jee\arq\spring\core\rest\RestConnectorHeadersEnum.class
+com\bbva\jee\arq\spring\core\rest\RestConnectorFactory$1.class
+com\bbva\jee\arq\spring\core\rest\IRestConnector.class
+com\bbva\jee\arq\spring\core\rest\RestConnectorType.class
+com\bbva\jee\arq\spring\core\rest\RestConnectorResponse.class
+com\bbva\jee\arq\spring\core\rest\RestConnectorFactory.class
+com\bbva\jee\arq\spring\core\rest\AbstractRestConnector.class
+com\bbva\jee\arq\spring\core\rest\RestConnectorBasic.class
+com\bbva\jee\arq\spring\core\rest\IProxyRestConnector.class
